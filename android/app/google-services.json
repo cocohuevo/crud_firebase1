@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1052447962559",
+    "project_id": "flutter-test-abcb1",
+    "storage_bucket": "flutter-test-abcb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052447962559:android:805169d1316dbea2d65d0a",
+        "android_client_info": {
+          "package_name": "com.example.miapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052447962559-105m23n64se2ab75lgmrcb8en1d66gtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4h3k4isHu7BAKNHVClk7XGEBfdT82aN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052447962559-105m23n64se2ab75lgmrcb8en1d66gtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1052447962559-c29in4hlutm4rri5gubtvmn1f1dfqcfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052447962559:android:e96a2a5811c4dd7ad65d0a",
+        "android_client_info": {
+          "package_name": "com.goswapp.crud_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052447962559-105m23n64se2ab75lgmrcb8en1d66gtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4h3k4isHu7BAKNHVClk7XGEBfdT82aN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052447962559-105m23n64se2ab75lgmrcb8en1d66gtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1052447962559-c29in4hlutm4rri5gubtvmn1f1dfqcfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
